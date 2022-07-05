@@ -36,7 +36,7 @@ global.APIKeys = { // APIKey Here
 }
 global.wm = '                「 ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - Dani˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - ᴅᴀɴɪ👑˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
 
